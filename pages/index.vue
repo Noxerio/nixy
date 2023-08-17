@@ -3,7 +3,7 @@
 </script>
 <template>
     <div class="flex items-center justify-center h-screen flex-col gap-8">
-        <img src="/img/vector.svg" class="drop-shadow-xl">
+        <img src="/img/Vector.svg" class="drop-shadow-xl">
         <div class="flex gap-8">
             <div class="bg-white rounded-xl drop-shadow-xl">
                 <iframe class="p-5 w-48 bg-white rounded-xl" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=GOFubeVzWG"></iframe>
