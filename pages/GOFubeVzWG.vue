@@ -1,6 +1,3 @@
-<script setup>
-
-</script>
 <template>
     <div class="grid grid-cols-2 items-center justify-center place-content-center h-screen container mx-auto">
         <div class="w-full flex justify-center items-center">
